@@ -56,7 +56,7 @@ Inside the notebook, change the ticker (e.g., `"AAPL"`, `"MSFT"`, `"TSLA"`) to f
 ---
 
 # Requirements
-See `requirements.txt` for full list.
+See `requirements_stock.txt` for full list.
 
 ---
 
